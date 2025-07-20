@@ -110,7 +110,7 @@ textarea{
         flex-direction: column;
     }
     .write-text{
-        width: 100%;
+        width: 90%;
         height: 70%;
     }
     .show--number{
@@ -142,7 +142,7 @@ textarea{
         flex-direction: column;
     }
     .write-text{
-        width: 100%;
+        width: 90%;
         height: 70%;
     }
     .show--number{
